@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">뛰뛰빵빵_term6</string>
+    <string name="location_permission_ask">설정으로 이동하세요.</string>
+    <string name="cancel">취소</string>
+    <string name="setting">설정</string>
+    <string name="phonenum_setting">번호설정</string>
+    <string name="location_service_setting_message">GPS를 켜세요.</string>
+    <string name="confirm">확인</string>
+    <string name="change">변경하기</string>
+    <string name="prev_phonenum">기존번호</string>
+
+
+</resources>
